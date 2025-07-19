@@ -1,6 +1,4 @@
 # Building and Deploying Machine Learning Solutions with Vertex AI
-Completed four end-to-end machine learning projects using Google Cloud Vertex AI:
-
 1. **AutoML Vision**  
    Built and deployed an image classification model for identifying damaged vehicle parts using AutoML Vision.
 
